@@ -2,8 +2,8 @@ schema_version: "vyges-upstream-v1"
 upstream:
   type: "standalone"
   repo: https://github.com/JuliaAlva/caravel_fulgor_opamp
-  commit: {"message":"No commit found for SHA: main","documentation_url":"https://docs.github.com/rest/commits/commits#get-a-commit","status":"422"}54c8d62297686d4f2c992ba5036adace8a5bbe38
-  extracted_at: "2026-04-01T05:14:14Z"
+  commit: 54c8d62297686d4f2c992ba5036adace8a5bbe38
+  extracted_at: "2026-04-01T05:16:15Z"
 import:
   rtl:
     - path: "."
